@@ -1,0 +1,261 @@
+{
+  "title": "Jamaica — Key Statistics",
+  "updated": "15 October 2026",
+  "social": [
+    {
+      "id": "population",
+      "label": "Census population",
+      "value": 2774538,
+      "unit": "people",
+      "display": "2,774,538",
+      "period": "2022 Population & Housing Census",
+      "source": "STATIN census, reported by JIS",
+      "source_url": "https://jis.gov.jm/jamaicas-population-rises-by-2-8-per-cent-to-2-77-million/",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "poverty",
+      "label": "National poverty rate",
+      "value": 7.8,
+      "unit": "% of population",
+      "display": "7.8%",
+      "period": "2024 · Jamaica Survey of Living Conditions",
+      "source": "PIOJ / STATIN — JSLC 2024",
+      "source_url": "https://www.pioj.gov.jm/wp-content/uploads/2025/11/DGs-QPB-30_2-Speaking-Notes_website_25.11.25.pdf#page=11",
+      "note": "Consumption-based national poverty measure.",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "internet",
+      "label": "People using the internet",
+      "value": 90,
+      "unit": "% of population",
+      "display": "≈90%",
+      "period": "2024 · rounded to a whole percentage point",
+      "source": "ITU via World Bank",
+      "source_url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=JM",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "unemployment",
+      "label": "Unemployment rate",
+      "value": 3.4,
+      "unit": "% of labour force",
+      "display": "3.4%",
+      "period": "July 2026 · both sexes · LU1",
+      "source": "STATIN — Labour Force Survey",
+      "source_url": "https://new.statinja.gov.jm/LabourForce/LFSDataExplorer.aspx",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "youth_unemployment",
+      "label": "Youth unemployment rate",
+      "value": 9.7,
+      "unit": "% of youth labour force",
+      "display": "9.7%",
+      "period": "July 2026 · both sexes",
+      "source": "STATIN — Labour Force Survey",
+      "source_url": "https://new.statinja.gov.jm/LabourForce/LFSDataExplorer.aspx",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    }
+  ],
+  "economic": [
+    {
+      "id": "inflation",
+      "label": "Headline inflation",
+      "value": 7.9,
+      "unit": "% year on year",
+      "display": "7.9%",
+      "period": "August 2026 · 12-month CPI change",
+      "source": "STATIN, reported by Bank of Jamaica",
+      "source_url": "https://boj.org.jm/summary-of-decisions-september-2026/",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "gdp_change",
+      "label": "Real GDP change",
+      "value": -2.9,
+      "unit": "% year on year",
+      "display": "−2.9%",
+      "period": "April–June 2026 vs April–June 2025",
+      "source": "STATIN — Quarterly GDP",
+      "source_url": "https://statinja.gov.jm/pressreleases.aspx",
+      "note": "Constant 2015 prices.",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "trade_deficit",
+      "label": "Goods trade deficit",
+      "value": 2543.6,
+      "unit": "US$ million",
+      "display": "US$2.54bn",
+      "period": "January–May 2026",
+      "source": "STATIN via Jamaica Trade Information Portal",
+      "source_url": "https://www.frontend.jamaicatradeportal.gov.jm/en-gb/site/display/1194",
+      "note": "Imports minus exports; calculated from STATIN values.",
+      "status": "Calculated",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "debt",
+      "label": "Public debt / GDP",
+      "value": 62.4,
+      "unit": "% of GDP",
+      "display": "62.4%",
+      "period": "End-March 2025 · revised GDP basis",
+      "source": "Ministry of Finance — Interim Fiscal Policy Paper",
+      "source_url": "https://www.mof.gov.jm/wp-content/uploads/Fiscal-Policy-Paper-Interim-Report-FY-2025-26.pdf",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "remittances",
+      "label": "Personal remittances received",
+      "value": 16.3,
+      "unit": "% of GDP",
+      "display": "16.3%",
+      "period": "2025",
+      "source": "World Bank — personal remittances",
+      "source_url": "https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=JM",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    }
+  ],
+  "environment": [
+    {
+      "id": "renewable_generation",
+      "label": "Renewable electricity share",
+      "value": 10.103117733141113,
+      "unit": "% of net grid generation",
+      "display": "10.1%",
+      "period": "2025 preliminary · JPS + independent producers",
+      "source": "Ministry of Energy — Jamaica Energy Statistics 2025",
+      "source_url": "https://www.mset.gov.jm/wp-content/uploads/2021/07/JAMAICA-ENERGY-STATISTICS-2025.pdf",
+      "note": "Hydro, wind and solar divided by total net generation (Table 8).",
+      "status": "Calculated from preliminary data",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "forest",
+      "label": "Forest cover",
+      "value": 47.9,
+      "unit": "% of land area",
+      "display": "47.9%",
+      "period": "2023 land-use / land-cover assessment",
+      "source": "Forestry Department — LULCA 2013–2023",
+      "source_url": "https://www.forestry.gov.jm/newsDetails?newsID=110",
+      "note": "",
+      "status": "Reported",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "fuel_imports",
+      "label": "Petroleum & natural gas imports",
+      "value": 1667982485,
+      "unit": "US$",
+      "display": "US$1.67bn",
+      "period": "2025 preliminary · import value",
+      "source": "Ministry of Energy — Jamaica Energy Statistics 2025",
+      "source_url": "https://www.mset.gov.jm/wp-content/uploads/2021/07/JAMAICA-ENERGY-STATISTICS-2025.pdf",
+      "note": "Combined import value in Table 1.",
+      "status": "Preliminary",
+      "checked": "2026-10-15"
+    },
+    {
+      "id": "melissa",
+      "label": "Hurricane Melissa damage & losses",
+      "value": 12.2,
+      "unit": "US$ billion",
+      "display": "US$12.2bn",
+      "period": "October 2025 event · assessment reported March 2026",
+      "source": "PIOJ, reported by JIS",
+      "source_url": "https://jis.gov.jm/total-loss-and-damage-from-hurricane-melissa-estimated-at-1-952-trillion/",
+      "note": "Total estimated damage and economic losses.",
+      "status": "Estimate",
+      "checked": "2026-10-15"
+    }
+  ],
+  "electricity": {
+    "series": [
+      {
+        "label": "Natural gas",
+        "value": 2662617,
+        "color": "#153b70"
+      },
+      {
+        "label": "Petroleum",
+        "value": 1304545,
+        "color": "#8b9aad"
+      },
+      {
+        "label": "Wind",
+        "value": 219696,
+        "color": "#139a86"
+      },
+      {
+        "label": "Hydro",
+        "value": 121231,
+        "color": "#49b8cf"
+      },
+      {
+        "label": "Solar",
+        "value": 104925,
+        "color": "#e6b34e"
+      }
+    ],
+    "unit": "MWh",
+    "total": 4413014,
+    "period": "2025 preliminary",
+    "source": [
+      "Ministry of Energy — Jamaica Energy Statistics 2025",
+      "https://www.mset.gov.jm/wp-content/uploads/2021/07/JAMAICA-ENERGY-STATISTICS-2025.pdf"
+    ]
+  },
+  "trade": {
+    "imports": 3218.3,
+    "exports": 674.7,
+    "deficit": 2543.6,
+    "unit": "US$ million",
+    "period": "January–May 2026",
+    "source": [
+      "STATIN via Jamaica Trade Information Portal",
+      "https://www.frontend.jamaicatradeportal.gov.jm/en-gb/site/display/1194"
+    ]
+  },
+  "unemployment_trend": [
+    {
+      "period": "Jul 2025",
+      "value": 3.3
+    },
+    {
+      "period": "Oct 2025",
+      "value": 3.3
+    },
+    {
+      "period": "Jan 2026",
+      "value": 3.6
+    },
+    {
+      "period": "Apr 2026",
+      "value": 3.7
+    },
+    {
+      "period": "Jul 2026",
+      "value": 3.4
+    }
+  ]
+}
